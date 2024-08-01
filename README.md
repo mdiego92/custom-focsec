@@ -66,7 +66,7 @@ Add the required configuration to the `/var/ossec/etc/ossec.conf` file and modif
 
 `/var/ossec/bin/wazuh-control restart`
 
-Samples:
+## Samples:
 
 ![image](https://github.com/user-attachments/assets/2be8a722-ba4c-41e4-9232-50a02c3f3d80)
 
